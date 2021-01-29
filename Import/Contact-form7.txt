@@ -1,0 +1,25 @@
+<div class="form-group1 wow fadeInUp">
+    <label class="sr-only" for="c_name">Name</label>
+    [text* c_name class:form-control placeholder "Name *"]
+</div>
+<div class="form-group wow fadeInUp" data-wow-delay=".1s">
+    <label class="sr-only" for="c_email">Email</label>
+    [email* c_email class:form-control placeholder "E-mail *"]
+</div>
+<div class="form-group wow fadeInUp" data-wow-delay=".2s">
+    [textarea c_message class:form-control placeholder "Message"]
+</div>
+
+[submit class:btn-lg class:btn-block class:wow class:fadeInUp "SEND MESSAGE"]
+-----------------------------------------------------------------------------
+Aditional Headers:
+Let Empty
+-----------------------------------------------------------------------------
+Mail body:
+De: [c_name] <[c_email]>
+Subject: Contact Form
+
+Message Body:
+[c_message]
+-----------------------------------------------------------------------------
+

@@ -1,0 +1,351 @@
+# Copyright (C) 2021 Paulo Correia
+# This file is distributed under the Licensed under MIT.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/clean\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-27 16:38-0300\n"
+"PO-Revision-Date: 2021-01-29 09:47-0300\n"
+"X-Generator: Poedit 2.3\n"
+"X-Domain: clean\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+#: functions.php:28
+msgid "Primary Menu"
+msgstr "Menu Primário"
+
+#: functions.php:53
+msgid "Clean Theme Installed"
+msgstr "Tema Clean Instalado"
+
+#: functions.php:59
+msgid ""
+"Please install and activate <a href=\"https://wordpress.org/plugins/contact-"
+"form-7/\" target=\"_blank\">contact 7</a>  plugin"
+msgstr ""
+"Por favor instale e ative o plugin <a href=\"https://br.wordpress.org/"
+"plugins/contact-form-7/\" target=\"_blank\">contact 7</a>"
+
+#: functions.php:65
+msgid "Please look at Import Folder"
+msgstr "Por favor olhe o diretório Import"
+
+#: functions.php:81 includes/clean-menu.php:592
+msgid "Clean Theme Options"
+msgstr "Opções do Tema Clean"
+
+#: includes/clean-menu.php:608 includes/clean-header:8
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: functions.php:163 includes/clean-menu.php:608 includes/clean-services.php:76
+msgid "Services"
+msgstr "Serviços"
+
+#: functions.php:163
+msgid "Works"
+msgstr "Portfólio"
+
+#: includes/clean-menu.php:608 includes/clean-portfolio.php:7
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#: includes/clean-menu.php:608 includes/clean-skills.php:7
+msgid "Skills"
+msgstr "Habilidades"
+
+#: includes/clean-menu.php:608 includes/clean-cta.php:7
+msgid "Call To Action"
+msgstr "Chamada"
+
+#: functions.php:163
+msgid "Testmonials"
+msgstr "Testemunhos"
+
+#: includes/clean-menu.php:608 includes/clean-testmonial.php:6
+msgid "Testmonial"
+msgstr "Testemunhos"
+
+#: includes/clean-contact:6 includes/clean-menu.php:608
+msgid "Contact"
+msgstr "Contato"
+
+#: includes/clean-footer.php:117 includes/clean-menu.php:608
+msgid "Footer"
+msgstr "Rodapé"
+
+#: includes/clean-menu.php:669
+msgid "Save Settings"
+msgstr "Salvar Configurações"
+
+#: includes/clean-contact.php:13 includes/clean-contact.php:17
+#: includes/clean-contact.php:20 includes/clean-cta.php:14
+#: includes/clean-cta.php:18 includes/clean-cta.php:21
+#: includes/clean-footer.php:124 includes/clean-footer.php:128
+#: includes/clean-footer.php:131 includes/clean-portfolio.php:14
+#: includes/clean-portfolio.php:18 includes/clean-portfolio.php:21
+#: includes/clean-services.php:84 includes/clean-services.php:88
+#: includes/clean-services.php:91 includes/clean-skills.php:14
+#: includes/clean-skills.php:18 includes/clean-skills.php:21
+#: includes/clean-testmonial.php:13 includes/clean-testmonial.php:17
+#: includes/clean-testmonial.php:20
+msgid "On"
+msgstr "Ligado"
+
+#: includes/clean-contact.php:14 includes/clean-contact.php:16
+#: includes/clean-contact.php:21 includes/clean-cta.php:15
+#: includes/clean-cta.php:17 includes/clean-cta.php:22
+#: includes/clean-footer.php:125 includes/clean-footer.php:127
+#: includes/clean-footer.php:132 includes/clean-portfolio.php:15
+#: includes/clean-portfolio.php:17 includes/clean-portfolio.php:22
+#: includes/clean-services.php:85 includes/clean-services.php:87
+#: includes/clean-services.php:92 includes/clean-skills.php:15
+#: includes/clean-skills.php:17 includes/clean-skills.php:22
+#: includes/clean-testmonial.php:14 includes/clean-testmonial.php:16
+#: includes/clean-testmonial.php:21
+msgid "Off"
+msgstr "Desligado"
+
+#: includes/clean-testmonial.php:30
+msgid "Texts of Testimonies"
+msgstr "Textos dos Testemunhos"
+
+#: includes/clean-contact.php:30
+msgid "Contact Texts"
+msgstr "Textos do Contato"
+
+#: includes/clean-contact.php:60
+msgid "Contact Form"
+msgstr "Formuário de Contato"
+
+#: includes/clean-cta.php:31
+msgid "Call To Action Texts"
+msgstr "Textos da Chamada"
+
+#: includes/clean-cta.php:61
+msgid "Button Text"
+msgstr "Texto do Botão"
+
+#: includes/clean-cta.php:81
+msgid "Background Image"
+msgstr "Imagem de Fundo"
+
+#: includes/clean-footer.php:141
+msgid "Social networks"
+msgstr "Redes Sociais"
+
+#: includes/clean-footer.php:146
+msgid "First Icon"
+msgstr "Primeiro Ícone"
+
+#: includes/clean-footer.php:161
+msgid "Second Icon"
+msgstr "Segundo Ícone"
+
+#: includes/clean-footer.php:177
+msgid "Third Icon"
+msgstr "Terceiro Ícone"
+
+#: includes/clean-footer.php:192
+msgid "Fourth Icon"
+msgstr "Quarto Ícone"
+
+#: includes/clean-footer.php:208
+msgid "Fifth Icon"
+msgstr "Quinto Ícone"
+
+#: includes/clean-footer.php:228
+msgid "Links to Social Networks"
+msgstr "Links para as Redes Sociais"
+
+#: includes/clean-footer.php:233
+msgid "First"
+msgstr "Primeiro"
+
+#: includes/clean-footer.php:255 includes/clean-footer.php:279
+#: includes/clean-footer.php:303 includes/clean-footer.php:327
+#: includes/clean-footer.php:351
+msgid "Open in new window"
+msgstr "Abrir em nova janela"
+
+#: includes/clean-footer.php:257
+msgid "Second"
+msgstr "Segundo"
+
+#: includes/clean-footer.php:281
+msgid "Third"
+msgstr "Terceiro"
+
+#: includes/clean-footer.php:305
+msgid "Fourth"
+msgstr "Quarto"
+
+#: includes/clean-footer.php:329
+msgid "Fifth"
+msgstr "Quinto"
+
+#: includes/clean-header.php:32
+msgid "Header Image"
+msgstr "Imagem de Cabeçalho"
+
+#: includes/clean-cta.php:101 includes/clean-header.php:48
+#: includes/clean-portfolio.php:222 includes/clean-portfolio.php:241
+#: includes/clean-portfolio.php:260 includes/clean-portfolio.php:279
+#: includes/clean-portfolio.php:298 includes/clean-portfolio.php:317
+#: includes/clean-testmonial.php:129 includes/clean-testmonial.php:147
+msgid "Upload"
+msgstr "Enviar"
+
+#: includes/clean-header.php:55
+msgid "Image Blur"
+msgstr "Desfoque da Imagem"
+
+#: includes/clean-header.php:78
+msgid "Header Texts"
+msgstr "Textos do Cabeçalho"
+
+#: includes/clean-help.php:6
+msgid "Click on the side menu to be able to customize the corresponding area."
+msgstr "Clique no menu lateral para personalizar a área correspondente."
+
+#: includes/clean-help.php:8
+msgid "The default values ​​will already be pre-filled."
+msgstr "Os valores padrão já estarão pré-preenchidos."
+
+#: includes/clean-help.php:11
+msgid ""
+"To return to the default value, just leave the field blank, or in some cases "
+"select it again."
+msgstr ""
+"Para retornar ao valor padrão, basta deixar o campo em branco ou, em alguns "
+"casos, selecioná-lo novamente."
+
+#: includes/clean-menu.php:320
+msgid "Options saved"
+msgstr "Opções salvas"
+
+#: includes/clean-menu.php:449
+msgid "Custom Image"
+msgstr "Imagem Personalizada"
+
+#: includes/clean-menu.php:451
+msgid "Upload Image"
+msgstr "Enviar Imagem"
+
+#: includes/clean-portfolio.php:31
+msgid "Portfolio Texts"
+msgstr "Textos do Portfólio"
+
+#: includes/clean-portfolio.php:67 includes/clean-portfolio.php:136
+#: includes/clean-services.php:137 includes/clean-services.php:209
+#: includes/clean-services.php:258
+msgid "First Square"
+msgstr "Primeiro  Quadrado"
+
+#: includes/clean-portfolio.php:77 includes/clean-portfolio.php:146
+#: includes/clean-services.php:153 includes/clean-services.php:219
+#: includes/clean-services.php:267
+msgid "Second Square"
+msgstr "Segundo Quadrado"
+
+#: includes/clean-portfolio.php:87 includes/clean-portfolio.php:156
+#: includes/clean-services.php:168 includes/clean-services.php:229
+#: includes/clean-services.php:276
+msgid "Third Square"
+msgstr "Terceiro Quadrado"
+
+#: includes/clean-portfolio.php:97 includes/clean-portfolio.php:166
+#: includes/clean-services.php:183 includes/clean-services.php:239
+#: includes/clean-services.php:285
+msgid "Fourth Square"
+msgstr "Quarto Quadrado"
+
+#: includes/clean-portfolio.php:97 includes/clean-portfolio.php:176
+msgid "Fifth Square"
+msgstr "Quinto Quadrado"
+
+#: includes/clean-portfolio.php:117 includes/clean-portfolio.php:186
+msgid "Sixth Square"
+msgstr "Sexto Quadrado"
+
+#: includes/clean-portfolio.php:132 includes/clean-services.php:253
+msgid "Texts"
+msgstr "Textos"
+
+#: includes/clean-portfolio.php:201
+msgid "Images"
+msgstr "Imagens"
+
+#: includes/clean-services.php:101
+msgid "Services Texts"
+msgstr "Textos do Serviço"
+
+#: includes/clean-services.php:132
+msgid "Icons"
+msgstr "Ícones"
+
+#: includes/clean-portfolio.php:63 includes/clean-services.php:204
+msgid "Titles"
+msgstr "Títulos"
+
+#: includes/clean-skills.php:31
+msgid "Skills Texts"
+msgstr "Textos das Habilidades"
+
+#: includes/clean-skills.php:61
+msgid "Percentage Titles"
+msgstr "Títulos da Porcentagem"
+
+#: includes/clean-skills.php:66 includes/clean-skills.php:115
+msgid "First Percentage"
+msgstr "Primeira Porcentagem"
+
+#: includes/clean-skills.php:76 includes/clean-skills.php:125
+msgid "Second Percentage"
+msgstr "Segunda Porcentagem"
+
+#: includes/clean-skills.php:86 includes/clean-skills.php:135
+msgid "Third Percentage"
+msgstr "Terceira Porcentagem"
+
+#: includes/clean-skills.php:96 includes/clean-skills.php:145
+msgid "Fourth Percentage"
+msgstr "Quarta Porcentagem"
+
+#: includes/clean-skills.php:110
+msgid "Percentages"
+msgstr "Porcentagens"
+
+#: includes/clean-testmonial.php:35
+msgid "Title"
+msgstr "Título"
+
+#: includes/clean-testmonial.php:47
+msgid "Subtitle"
+msgstr "SubTítulo"
+
+#: includes/clean-testmonial.php:58
+msgid "First Testimony"
+msgstr "Primeiro Depoimento"
+
+#: includes/clean-testmonial.php:69
+msgid "First Name"
+msgstr "Primeiro Nome"
+
+#: includes/clean-testmonial.php:81
+msgid "Second Testimony"
+msgstr "Segundo Depoimento"
+
+#: includes/clean-testmonial.php:92
+msgid "Second Name"
+msgstr "Segundo Nome"
+
+#: includes/clean-testmonial.php:108
+msgid "Testimonials Images"
+msgstr "Imagens do Testemunho"
